@@ -1,0 +1,7 @@
+C:\Users\TECHNOSELLERS\Desktop\c#\Assingment2\Assingment2\bin\Debug\Assingment2.exe.config
+C:\Users\TECHNOSELLERS\Desktop\c#\Assingment2\Assingment2\bin\Debug\Assingment2.exe
+C:\Users\TECHNOSELLERS\Desktop\c#\Assingment2\Assingment2\bin\Debug\Assingment2.pdb
+C:\Users\TECHNOSELLERS\Desktop\c#\Assingment2\Assingment2\obj\Debug\Assingment2.csproj.AssemblyReference.cache
+C:\Users\TECHNOSELLERS\Desktop\c#\Assingment2\Assingment2\obj\Debug\Assingment2.csproj.CoreCompileInputs.cache
+C:\Users\TECHNOSELLERS\Desktop\c#\Assingment2\Assingment2\obj\Debug\Assingment2.exe
+C:\Users\TECHNOSELLERS\Desktop\c#\Assingment2\Assingment2\obj\Debug\Assingment2.pdb
